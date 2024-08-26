@@ -27,8 +27,8 @@ navbar:
     url: "/templates/"
   - title: "Commands"
     url: "/commands/"
-  - title: "FAQ"
-    url: "/faq/"
+  - title: "FAQs"
+    url: "/faqs/"
 
 # Permalink settings
 permalink: pretty
