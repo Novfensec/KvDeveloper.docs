@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-permalink: docs/commands/
+permalink: commands/
 ---
 
 # KvDeveloper Commands
