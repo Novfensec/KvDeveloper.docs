@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Templates
-permalink: docs/templates/
+permalink: templates/
 ---
 
 # Templates
