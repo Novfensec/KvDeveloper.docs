@@ -1,0 +1,95 @@
+# Contributing to KvDeveloper.docs
+
+Thank you for considering contributing to KvDeveloper.docs! We welcome contributions from everyone. By following these guidelines, you help us maintain a high standard of quality and ensure that your contributions are easy to review and integrate.
+
+## Table of Contents
+
+1. Code of Conduct
+2. How to Contribute
+3. Reporting Bugs
+4. Requesting Features
+5. Coding Standards
+6. Documentation
+7. Support
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](https://github.com/Novfensec/KvDeveloper.docs/blob/main/CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive environment for everyone.
+
+## How to Contribute
+
+1. **Fork the Repository**:
+   - Click the "Fork" button at the top right of the KvDeveloper.docs GitHub page.
+   - Clone your forked repository to your local machine:
+     ```sh
+     git clone https://github.com/Novfensec/KvDeveloper.docs.git
+     cd KvDeveloper.docs
+     ```
+
+2. **Install in Editable Mode**:
+   - Set up the project in editable mode using pip:
+     ```sh
+     pip install -e .
+     ```
+
+3. **Create a Branch**:
+   - Create a new branch for your changes:
+     ```sh
+     git checkout -b my-feature-branch
+     ```
+
+4. **Make Your Changes**:
+   - Make your changes, ensuring proper type hinting and formatting your code using the Black formatter.
+
+5. **Commit Your Changes**:
+   - Commit your changes with a clear and descriptive commit message:
+     ```sh
+     git add .
+     git commit -m "Add feature X to KvDeveloper.docs"
+     ```
+
+6. **Push Your Branch**:
+   - Push your branch to your forked repository:
+     ```sh
+     git push origin my-feature-branch
+     ```
+
+7. **Create a Pull Request**:
+   - Go to the KvDeveloper.docs GitHub page and click the "New Pull Request" button.
+   - Provide a detailed description of your changes, including screenshots if applicable.
+
+## Reporting Bugs
+
+Before reporting a bug, please:
+
+1. **Search existing issues** on our GitHub Issues page to see if the bug has already been reported.
+2. If the bug has not been reported, create a new issue using the **Bug Report** template. Provide a clear and descriptive title, a detailed description, and any relevant screenshots or code snippets.
+
+## Requesting Features
+
+To request a new feature:
+
+1. **Search existing feature requests** on our GitHub Issues page to see if the feature has already been requested.
+2. If the feature has not been requested, create a new issue using the **Feature Request** template. Provide a clear and descriptive title, a detailed description, and any relevant code or images.
+
+## Coding Standards
+
+- **Type Hinting**: Ensure all functions and methods have proper type hints.
+- **Formatting**: Use the Black formatter to format your code. You can install it using `pip install black` and format your code by running `black .` in the project directory.
+- **Commit Messages**: Write clear and descriptive commit messages. Follow the Conventional Commits specification.
+
+## Documentation
+
+All Python code should be documented following the official Python documentation guidelines. Ensure that your documentation is clear, concise, and includes examples where applicable.
+
+## Support
+
+If you need support or have questions:
+
+- **[Discord](https://discord.com/invite/gpubX9H8p7)**: Join our Discord server and ask in the appropriate channel.
+- **[GitHub](https://github.com/Novfensec/KvDeveloper)**: Check out our GitHub repository for more information.
+- **[YouTube](https://youtube.com/@KvDeveloper)**: Watch our tutorials on the KvDeveloper YouTube channel.
+
+Thank you for your contributions and support!
+
+KvDeveloper Team
