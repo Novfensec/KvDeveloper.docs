@@ -2,13 +2,11 @@ title: KvDeveloper Documentation
 description: Comprehensive documentation for KvDeveloper
 baseurl: "/KvDeveloper.docs"
 url: "https://novfensec.github.io"
-theme: jekyll-theme-monos
+theme: jekyll-theme-chirpy
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-rouge:
-  theme: monokai
 
 # Plugins
 plugins:
