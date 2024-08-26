@@ -11,24 +11,25 @@ highlighter: rouge
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
 
 # Navbar configuration
 navbar:
   - title: "Home"
-    url: "/"
+    url: ""
   - title: "Getting Started"
-    url: "/getting-started/"
+    url: "getting-started/"
   - title: "Installation"
-    url: "/installation/"
+    url: "installation/"
   - title: "Usage"
-    url: "/usage/"
+    url: "usage/"
   - title: "Templates"
-    url: "/templates/"
+    url: "templates/"
   - title: "Commands"
-    url: "/commands/"
+    url: "commands/"
   - title: "FAQ"
-    url: "/faq/"
+    url: "faq/"
 
 # Permalink settings
 permalink: pretty

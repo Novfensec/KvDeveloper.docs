@@ -10,7 +10,7 @@ Here are some common questions and answers about KvDeveloper.
 
 ### How do I install KvDeveloper?
 
-Refer to the [Installation Guide](/installation/) for detailed instructions.
+Refer to the [Installation Guide](installation/) for detailed instructions.
 
 ### What Python versions are supported?
 

@@ -42,4 +42,4 @@ KvDeveloper comes with several pre-built templates to help you get started quick
 
 # FAQ
 
-Have questions? We've compiled a list of [Frequently Asked Questions](/faqs/) to help you troubleshoot common issues and get the most out of KvDeveloper.
+Have questions? We've compiled a list of [Frequently Asked Questions](faqs/) to help you troubleshoot common issues and get the most out of KvDeveloper.
