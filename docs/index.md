@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome to KvDeveloper Documentation
+permalink: /
 ---
 # Welcome to KvDeveloper Documentation
 <p align="center">
