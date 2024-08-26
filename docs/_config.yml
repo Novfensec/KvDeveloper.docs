@@ -1,0 +1,26 @@
+title: KvDeveloper Documentation
+description: Comprehensive documentation for KvDeveloper
+baseurl: "/KvDeveloper.docs"
+url: "https://novfensec.github.io"
+theme: jekyll-theme-monos
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+rouge:
+  theme: monokai
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
