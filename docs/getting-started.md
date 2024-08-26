@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Getting Started
-permalink: docs/getting-started/
+permalink: getting-started/
 ---
 
 # Getting Started
