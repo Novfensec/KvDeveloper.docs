@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Usage
-permalink: /usage/
+permalink: docs/usage/
 ---
 
 # Usage

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Templates
-permalink: /templates/
+permalink: docs/templates/
 ---
 
 # Templates

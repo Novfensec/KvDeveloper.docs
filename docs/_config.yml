@@ -32,7 +32,7 @@ navbar:
     url: "/faq/"
 
 # Permalink settings
-permalink: /:path/:basename/
+permalink: pretty
 
 # Exclude settings
 exclude:
