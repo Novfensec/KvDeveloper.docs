@@ -7,18 +7,39 @@ theme: jekyll-theme-minimal
 # Build settings
 markdown: kramdown
 highlighter: rouge
+  rouge:
+    theme: monokai
 
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
 
-# Exclude from processing
+# Navbar configuration
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Getting Started"
+    url: "/getting-started/"
+  - title: "Installation"
+    url: "/installation/"
+  - title: "Usage"
+    url: "/usage/"
+  - title: "Templates"
+    url: "/templates/"
+  - title: "Commands"
+    url: "/commands/"
+  - title: "FAQ"
+    url: "/faq/"
+
+# Permalink settings
+permalink: pretty
+
+# Exclude settings
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+
+# Enable relative links
+relative_permalinks: true

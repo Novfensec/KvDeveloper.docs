@@ -84,12 +84,17 @@ All Python code should be documented following the official Python documentation
 
 ## Support
 
-If you need support or have questions:
+Join the KvDeveloper community to get support, share your projects, and collaborate with other developers. Here are some ways you can connect with us:
 
-- **[Discord](https://discord.com/invite/gpubX9H8p7)**: Join our Discord server and ask in the appropriate channel.
-- **[GitHub](https://github.com/Novfensec/KvDeveloper)**: Check out our GitHub repository for more information.
-- **[YouTube](https://youtube.com/@KvDeveloper)**: Watch our tutorials on the KvDeveloper YouTube channel.
+- **Discord**: Join our [KvDeveloper Community Server](https://discord.com/invite/gpubX9H8p7).
+- **Stack Overflow**: Feel free to reach out on our [Stack Overflow](https://stackoverflow.com/users/16486510/novfensec).
+- **GitHub Discussions**: Participate in discussions and ask questions in the [GitHub Discussions](https://github.com/Novfensec/KvDeveloper/discussions) section.
+- **Youtube - Admin**: Follow [@NovfensecInc](https://youtube.com/@NovfensecInc) to learn by building futuristic projects.
+- **YouTube - KvDeveloper**: Follow us on YouTube [@KvDeveloper](https://youtube.com/@KvDeveloper) for updates and announcements.
+
+If you encounter any issues or have questions, feel free to reach out to the community or submit an issue on GitHub.
 
 Thank you for your contributions and support!
 
-KvDeveloper Team
+Kartavya Shukla
+Maintainer - [KvDeveloper](https://github.com/Novfensec/KvDeveloper)
