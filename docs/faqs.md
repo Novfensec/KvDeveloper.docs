@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQs
-permalink: docs/faqs/
+permalink: faqs/
 ---
 
 # Frequently Asked Questions
