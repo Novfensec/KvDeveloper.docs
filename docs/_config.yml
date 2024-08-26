@@ -38,6 +38,3 @@ permalink: pretty
 exclude:
   - Gemfile
   - Gemfile.lock
-
-# Enable relative links
-relative_permalinks: true
