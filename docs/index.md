@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Welcome to KvDeveloper Documentation
-permalink: /
 ---
 # Welcome to KvDeveloper Documentation
 <p align="center">
