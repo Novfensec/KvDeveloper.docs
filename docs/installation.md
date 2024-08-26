@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installation
-permalink: docs/installation/
+permalink: installation/
 ---
 
 # Installation
