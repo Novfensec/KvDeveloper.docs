@@ -1,11 +1,12 @@
 title: KvDeveloper Documentation
 description: Comprehensive documentation for KvDeveloper
+logo: https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_logo256.png
 baseurl: "/KvDeveloper.docs"
 url: "https://novfensec.github.io"
 theme: jekyll-theme-minimal
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 
 # Plugins
@@ -14,22 +15,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# gems
+gems:
+  - jekyll-commonmark-ghpages
+commonmark:
+  options: ["smart", "footnotes", "strikethrough", "table", "tasklist"]
+
 # Navbar configuration
-navbar:
-  - title: "Home"
-    url: ""
-  - title: "Getting Started"
-    url: "getting-started/"
-  - title: "Installation"
-    url: "installation/"
-  - title: "Usage"
-    url: "usage/"
-  - title: "Templates"
-    url: "templates/"
-  - title: "Commands"
-    url: "commands/"
-  - title: "FAQ"
-    url: "faq/"
+header-pages:
+  - index.md
+  - getting-started.md
+  - installation.md
+  - usage.md
+  - templates.md
+  - commands.md
+  - faqs.md
 
 # Permalink settings
 permalink: pretty

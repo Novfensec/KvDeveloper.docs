@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Getting Started
-permalink: commands/
 ---
 
 # KvDeveloper Commands
@@ -82,3 +81,7 @@ kvdeveloper create --help
 ```
 
 This document serves as a reference for all available commands in KvDeveloper. Use these commands to streamline your KivyMD development process.
+
+# FAQ
+
+Have questions? We've compiled a list of [Frequently Asked Questions](faqs.md) to help you troubleshoot common issues and get the most out of KvDeveloper.

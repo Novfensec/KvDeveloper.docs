@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Getting Started
-permalink: getting-started/
 ---
 
 # Getting Started
@@ -34,7 +33,7 @@ Welcome to KvDeveloper! This guide will help you get started quickly.
 - <a href="https://www.youtube.com/@KvDeveloper" rel="noopener" target="_blank">Youtube KvDeveloper</a>
 
 ## Installation
-If you haven't installed KvDeveloper yet, [follow the installation guide](installation/).
+If you haven't installed KvDeveloper yet, [follow the installation guide](installation.md).
 
 ## First Project
 Create Your first project with a simple command.
@@ -45,19 +44,19 @@ Create Your first project with a simple command.
 
 ## Usage
 
-Learn how to use KvDeveloper for various tasks, from creating new projects to applying templates. Visit the [Usage](usage/) page for detailed instructions.
+Learn how to use KvDeveloper for various tasks, from creating new projects to applying templates. Visit the [Usage](usage.md) page for detailed instructions.
 
 ## Templates
 
-KvDeveloper includes several pre-built templates to help you get started quickly. Explore the available templates and how to use them on the [Templates](templates/) page.
+KvDeveloper includes several pre-built templates to help you get started quickly. Explore the available templates and how to use them on the [Templates](templates.md) page.
 
 ## Commands
 
-KvDeveloper comes with a set of powerful commands to make your development process more efficient. Check out the [Commands](commands/) page for a full list of available commands and how to use them.
+KvDeveloper comes with a set of powerful commands to make your development process more efficient. Check out the [Commands](commands.md) page for a full list of available commands and how to use them.
 
 # FAQ
 
-Have questions? We've compiled a list of [Frequently Asked Questions](faqs/) to help you troubleshoot common issues and get the most out of KvDeveloper.
+Have questions? We've compiled a list of [Frequently Asked Questions](faqs.md) to help you troubleshoot common issues and get the most out of KvDeveloper.
 
 ## Contact
 For any inquiries, please contact us at [novfensec@protonmail.com].

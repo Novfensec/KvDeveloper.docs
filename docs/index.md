@@ -15,8 +15,8 @@ This is the official documentation site for KvDeveloper. Here you'll find compre
 ## Getting Started
 
 - [Introduction](getting-started.md)
-- [Installation](installation/)
-- [Usage](usage/)
+- [Installation](installation.md)
+- [Usage](usage.md)
 
 ## Contributing
 

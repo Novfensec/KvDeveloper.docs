@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Installation
-permalink: installation/
 ---
 
 # Installation
@@ -29,12 +28,12 @@ pip install git+https://github.com/Novfensec/KvDeveloper.git@main
 
 ## Usage
 
-Learn how to use KvDeveloper for various tasks, from creating new projects to applying templates. Visit the [Usage](usage/) page for detailed instructions.
+Learn how to use KvDeveloper for various tasks, from creating new projects to applying templates. Visit the [Usage](usage.md) page for detailed instructions.
 
 ## Templates
 
-KvDeveloper includes several pre-built templates to help you get started quickly. Explore the available templates and how to use them on the [Templates](templates/) page.
+KvDeveloper includes several pre-built templates to help you get started quickly. Explore the available templates and how to use them on the [Templates](templates.md) page.
 
 # FAQ
 
-Have questions? We've compiled a list of [Frequently Asked Questions](faqs/) to help you troubleshoot common issues and get the most out of KvDeveloper.
+Have questions? We've compiled a list of [Frequently Asked Questions](faqs.md) to help you troubleshoot common issues and get the most out of KvDeveloper.

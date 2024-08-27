@@ -1,7 +1,6 @@
 ---
 layout: default
 title: FAQs
-permalink: faqs/
 ---
 
 # Frequently Asked Questions
@@ -10,7 +9,7 @@ Here are some common questions and answers about KvDeveloper.
 
 ### How do I install KvDeveloper?
 
-Refer to the [Installation Guide](installation/) for detailed instructions.
+Refer to the [Installation Guide](installation.md) for detailed instructions.
 
 ### What Python versions are supported?
 
