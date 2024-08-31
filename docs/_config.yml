@@ -1,9 +1,7 @@
 title: KvDeveloper Documentation
 description: Comprehensive documentation for KvDeveloper
-logo: https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png
 baseurl: "/KvDeveloper.docs"
 url: "https://novfensec.github.io"
-theme: jekyll-theme-minimal
 
 # Build settings
 markdown: GFM
