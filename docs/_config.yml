@@ -7,12 +7,12 @@ theme: jekyll-theme-minimal
 
 # Build settings
 markdown: GFM
-highlighter: rouge
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-cache
   - jekyll-seo-tag
 
 # gems
@@ -20,16 +20,6 @@ gems:
   - jekyll-commonmark-ghpages
 commonmark:
   options: ["smart", "footnotes", "strikethrough", "table", "tasklist"]
-
-# Navbar configuration
-header-pages:
-  - index.md
-  - getting-started.md
-  - installation.md
-  - usage.md
-  - templates.md
-  - commands.md
-  - faqs.md
 
 # Permalink settings
 permalink: pretty
