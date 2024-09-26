@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Usage
+usage_active: active
 ---
 
 # Usage
@@ -24,10 +25,10 @@ kvdeveloper create my_project --template nav_toolbar
 ```
 
 ### Including structures
-Create a new KivyMD project using [nav_toolbar](templates.md/#nav-toolbar) template with MVC architecture:
+Create a new KivyMD project using [nav_dock](templates.md/#nav-dock) template with MVC architecture:
 
 ```bash
-kvdeveloper create my_project --template nav_toolbar --structure MVC
+kvdeveloper create my_project --template nav_dock --structure MVC
 ```
 
 # FAQ

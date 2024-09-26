@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Installation
+installation_active: active
 ---
 
-# Installation
-
-Follow the steps below to install KvDeveloper on your machine.
-
 ## Prerequisites
-
 - Python 3.1 or higher
 - pip (Python package installer)
 
 ## Installation
+Follow the steps below to install KvDeveloper on your machine.
 
 1. Install KvDeveloper using pip:
 
@@ -20,7 +17,7 @@ Follow the steps below to install KvDeveloper on your machine.
 pip install kvdeveloper
 ```
 
-2. Install development version from github:
+2. Install development version from github `(requires git installation)`:
 
 ```bash
 pip install git+https://github.com/Novfensec/KvDeveloper.git@main

@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Welcome to KvDeveloper Documentation
+home_active: active
 ---
 # Welcome to KvDeveloper Documentation
 <p align="center">
     <img 
-        width="750" src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" style="border-radius:1em;" 
-        title="kvdeveloper create MyApp --template nav_toolbar"
+        width="700" src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" style="border-radius:1em;" 
+        title="kvdeveloper create MyApp"
     />
 </p>
 
@@ -36,6 +37,7 @@ Join the KvDeveloper community to get support, share your projects, and collabor
 
 - **Discord**: Join our [KvDeveloper Community Server](https://discord.com/invite/U9bfkD6A4c).
 - **Stack Overflow**: Feel free to reach out on our [Stack Overflow](https://stackoverflow.com/users/16486510/novfensec).
+- **Reddit - KvDeveloper**: Feel free to join our [Reddit Community](https://reddit.com/r/KvDeveloper).
 - **GitHub Discussions**: Participate in discussions and ask questions in the [GitHub Discussions](https://github.com/Novfensec/KvDeveloper/discussions) section.
 - **Youtube - Admin**: Follow [@NovfensecInc](https://youtube.com/@NovfensecInc) to learn by building futuristic projects.
 - **YouTube - KvDeveloper**: Follow us on YouTube [@KvDeveloper](https://youtube.com/@KvDeveloper) for updates and announcements.

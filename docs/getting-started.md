@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Getting Started
+getting_started_active: active
 ---
 
 # Getting Started
