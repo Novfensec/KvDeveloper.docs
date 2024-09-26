@@ -13,7 +13,7 @@ KvDeveloper comes with several pre-built templates to help you get started quick
     ### Overview
     This repository contains a basic KivyMD app with Navigation drawer, HomeScreen and LoginScreen components including hot reload functionality. You can make code changes and instantly see the updates without restarting the application [ *Only for changes made to `main.py` and `.kv` files.* ].
 
-    <img src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/nav_toolbar.png" width="750"/>
+    <img src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/nav_toolbar.png" width="75%"/>
 
     ### Usage
     1. Create a new project with nav_toolbar template.
@@ -39,7 +39,7 @@ KvDeveloper comes with several pre-built templates to help you get started quick
     ### Overview
     This repository contains a basic KivyMD app with Navigation drawer, BottomNavigation, HomeScreen, LoginScreen and SettingsScreen  components including hot reload functionality. You can make code changes and instantly see the updates without restarting the application [ *Only for changes made to `main.py` and `.kv` files.* ].
 
-    <img src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/nav_dock.png" width="750"/>
+    <img src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/nav_dock.png" width="75%"/>
 
     ### Usage
     1. Create a new project with nav_toolbar template.

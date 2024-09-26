@@ -6,7 +6,7 @@ home_active: active
 # Welcome to KvDeveloper Documentation
 <p align="center">
     <img 
-        width="700" src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" style="border-radius:1em;" 
+        width="70%" src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" style="border-radius:1em;" 
         title="kvdeveloper create MyApp"
     />
 </p>
