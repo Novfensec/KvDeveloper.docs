@@ -6,18 +6,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:site_name" content="KvDeveloper.docs" />
-    <meta property="og:image" content="https://raw.githubusercontent.com/Novfensec/KvDeveloper/refs/heads/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" />
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/Novfensec/KvDeveloper/refs/heads/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" />
     <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="icon" href="https://raw.githubusercontent.com/Novfensec/KvDeveloper/refs/heads/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_logo64.png" />
+    <link rel="icon"
+        href="https://raw.githubusercontent.com/Novfensec/KvDeveloper/refs/heads/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_logo64.png" />
+    <link rel="stylesheet" href="{{'assets/prism.css' | relative_url}}" />
 </head>
 
 <body>
     <header>
-        <nav class="navbar bg-body-tertiary fixed-top">
+        <nav class="navbar bg-light fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#KvDeveloper.docs"><img
                         src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/refs/heads/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_logo64.png"
@@ -35,27 +38,31 @@
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <li class="nav-item">
-                                <a class="nav-link {{ home_active }}" aria-current="page" href="index.md">Home</a>
+                                <a class="nav-link {{ home_active }}" aria-current="page"
+                                    href="{{'index.md' | relative_url}}">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link {{ getting_started_active }}" href="getting-started.md">Getting
+                                <a class="nav-link {{ getting_started_active }}"
+                                    href="{{'getting-started.md' | relative_url}}">Getting
                                     Started</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link {{ installation_active }}"
-                                    href="installation.md">Installation</a>
+                                    href="{{'installation.md' | relative_url}}">Installation</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link {{ usage_active }}" href="usage.md">Usage</a>
+                                <a class="nav-link {{ usage_active }}" href="{{'usage.md' | relative_url}}">Usage</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link {{ templates_active }}" href="templates.md">Templates</a>
+                                <a class="nav-link {{ templates_active }}"
+                                    href="{{'templates.md' | relative_url}}">Templates</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link {{ commands_active }}" href="commands.md">Commands</a>
+                                <a class="nav-link {{ commands_active }}"
+                                    href="{{'commands.md' | relative_url}}">Commands</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link {{ faqs_active }}" href="faqs.md">FAQs</a>
+                                <a class="nav-link {{ faqs_active }}" href="{{ 'faqs.md' | relative_url}}">FAQs</a>
                             </li>
                         </ul>
                     </div>
@@ -64,13 +71,13 @@
         </nav>
     </header>
     <br>
-    <div class="main container-fluid p-4 m-auto">
+    <div class="main container-fluid p-4 m-4">
         <div class="container mt-4">
             {{ content }}
         </div>
     </div>
     <br>
-    <footer class="footer container-fluid fixed-bottom pt-3 mt-3 shadow-lg">
+    <footer class="footer container-fluid fixed-bottom bg-light pt-3 mt-3 shadow-lg">
         <p class="float-start">Copyright © 2024 Kartavya Shukla
             <a class="p-2 link" rel="noopener" target="_blank" href="https://github.com/Novfensec/KvDeveloper">
                 <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-github"
@@ -108,6 +115,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
         crossorigin="anonymous"></script>
+
+    <script src="{{'assets/prism.js' | relative_url}}"></script>
 </body>
 
 </html>
