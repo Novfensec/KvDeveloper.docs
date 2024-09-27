@@ -28,6 +28,7 @@ kvdeveloper create [OPTIONS] PROJECT_NAME
 kvdeveloper create my_project --template blank --structure MVC
 ```
 
+
 ## `show-readme`
 Show the README.md file containing the template info of the project.
 
@@ -47,6 +48,7 @@ List all available templates.
 kvdeveloper list_templates
 ```
 
+
 ## `list-structures`
 List all available structures.
 
@@ -54,6 +56,7 @@ List all available structures.
 ```bash
 kvdeveloper list_structures
 ```
+
 
 ## `add-screen`
 Create screens with specified template and structure.
@@ -76,6 +79,7 @@ kvdeveloper add-screen [OPTIONS] NAME_SCREEN...
 ```bash
 kvdeveloper add-screen TestScreen test2screen test3 --template blank --structure MVC
 ```
+
 
 ## `config-build-setup`
 Generates necessary build files for external build environments (Github/Colab) and linux
@@ -102,6 +106,7 @@ kvdeveloper config-build-setup [OPTIONS] PLATFORM
     ```bash
     kvdeveloper config-build-setup android --external colab
     ```
+
 
 ## `help`
 

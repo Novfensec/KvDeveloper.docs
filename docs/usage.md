@@ -8,7 +8,6 @@ usage_active: active
 
 Learn how to effectively use KvDeveloper for your projects.
 
-## Basic Commands
 
 ### Creating a New Project
 Below command creates a new KivyMD project with a `blank` template and default structure `none`:
@@ -17,6 +16,7 @@ Below command creates a new KivyMD project with a `blank` template and default s
 kvdeveloper create my_project
 ```
 
+
 ### Including templates
 Create a new KivyMD project using [nav_toolbar](templates.md/#nav-toolbar) template:
 
@@ -24,12 +24,14 @@ Create a new KivyMD project using [nav_toolbar](templates.md/#nav-toolbar) templ
 kvdeveloper create my_project --template nav_toolbar
 ```
 
+
 ### Including structures
 Create a new KivyMD project using [nav_dock](templates.md/#nav-dock) template with MVC architecture:
 
 ```bash
 kvdeveloper create my_project --template nav_dock --structure MVC
 ```
+
 
 # FAQ
 

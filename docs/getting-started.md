@@ -22,8 +22,10 @@ Welcome to KvDeveloper! This guide will help you get started quickly.
 
 <p>KvDeveloper is a PyPI module designed to streamline the development of Kivy and KivyMD applications. Inspired by Expo CLI for React Native, it offers starter templates and essential functionalities to kickstart your projects with ease. With features like predefined templates, MVC architecture support, and customizable options, KvDeveloper simplifies creating robust and organized Kivy projects. It supports Python 3.1+, Kivy 2.2.0+, and KivyMD 1.1.1+, making it a versatile tool for developers looking to enhance their Kivy development workflow.</p>
 
+
 ## Installation
 If you haven't installed KvDeveloper yet, [follow the installation guide](installation.md).
+
 
 ## First Project
 Create Your first project with a simple command.
@@ -32,17 +34,21 @@ Create Your first project with a simple command.
   kvdeveloper create my_project
   ```
 
+
 ## Usage
 
 Learn how to use KvDeveloper for various tasks, from creating new projects to applying templates. Visit the [Usage](usage.md) page for detailed instructions.
+
 
 ## Templates
 
 KvDeveloper includes several pre-built templates to help you get started quickly. Explore the available templates and how to use them on the [Templates](templates.md) page.
 
+
 ## Commands
 
 KvDeveloper comes with a set of powerful commands to make your development process more efficient. Check out the [Commands](commands.md) page for a full list of available commands and how to use them.
+
 
 # FAQ
 

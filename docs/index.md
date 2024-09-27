@@ -3,14 +3,15 @@ layout: default
 title: Welcome to KvDeveloper Documentation
 home_active: active
 ---
-# Welcome to KvDeveloper Documentation
-<p align="center">
-    <img 
-        width="70%" src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" style="border-radius:1em;" 
-        title="kvdeveloper create MyApp"
-    />
-</p>
+# Welcome to KvDeveloper's Documentation
 
+<div class="container">
+    <p align="center">
+        <img class="img-fluid" src="https://raw.githubusercontent.com/Novfensec/KvDeveloper/main/kvdeveloper/assets/image_library/kvdeveloper/kvdeveloper_banner_outfit.png" style="border-radius:1em;" 
+            title="kvdeveloper create MyApp"
+        />
+    </p>
+</div>
 This is the official documentation site for KvDeveloper. Here you'll find comprehensive guides and documentation to help you start working with KvDeveloper as quickly as possible.
 
 ## Getting Started

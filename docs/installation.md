@@ -8,6 +8,7 @@ installation_active: active
 - Python 3.1 or higher
 - pip (Python package installer)
 
+
 ## Installation
 Follow the steps below to install KvDeveloper on your machine.
 
@@ -23,13 +24,16 @@ pip install kvdeveloper
 pip install git+https://github.com/Novfensec/KvDeveloper.git@main
 ```
 
+
 ## Usage
 
 Learn how to use KvDeveloper for various tasks, from creating new projects to applying templates. Visit the [Usage](usage.md) page for detailed instructions.
 
+
 ## Templates
 
 KvDeveloper includes several pre-built templates to help you get started quickly. Explore the available templates and how to use them on the [Templates](templates.md) page.
+
 
 # FAQ
 
